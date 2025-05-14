@@ -993,7 +993,6 @@ analytics-au.clickdimensions.com
 analytics.avcdn.net
 analytics.bitrix.info
 analytics-ca.clickdimensions.com
-analytics.ccgateway.net
 analytics.cdn.live
 analytics.clickdimensions.com
 analytics.cloudron.io
@@ -1348,6 +1347,7 @@ banquetunarmedgrater.com
 bans.bride.ru
 baresi.xyz
 barnesandnoble.bfast.com
+barometercorrodingunease.com
 barscreative1.com
 basebanner.com
 basepush.com
@@ -1615,6 +1615,7 @@ cameesse.net
 campaign.bharatmatrimony.com
 campaigns.williamhill.com
 camp.purchase-shop.com
+cams.gratis
 canangafierier.uno
 can-get-so.me
 caniamedia.com
@@ -1664,7 +1665,6 @@ cc-api-data.adobe.io
 cccpmo.com
 c.cdn-server.top
 ccg90.com
-ccgateway.net
 ccjzuavqrh.com
 cc.swiftype.com
 cd-ads.com
@@ -1772,6 +1772,7 @@ ciksolre.net
 cilsammwcblcv.com
 circularnothing.com
 citadelpathstatue.com
+citizenhid.com
 citronsstealed.website
 cityads.telus.net
 citygrid.com
@@ -1950,6 +1951,7 @@ copyrightaccesscontrols.com
 coralogix.com
 core.airbridge.io
 coremetrics.com
+correctdilutetrophy.com
 correlationcocktailinevitably.com
 counted.com
 counter.bloke.com
@@ -2038,6 +2040,7 @@ culterwhether.com
 culturalsameunbridle.com
 culwcoam.com
 cupidonmedia.com
+cupoabie.net
 curioushingefast.com
 curlyhomes.com
 curtaincows.com
@@ -2251,6 +2254,7 @@ displayadsmedia.com
 displaycontentprofit.com
 displayformatcontent.com
 displayvertising.com
+disprovefacilityjolt.com
 disqusads.com
 disrespectpreceding.com
 dist.belnk.com
@@ -2290,6 +2294,7 @@ dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dotsonian.org
+dotyruntchan.com
 doubleadserve.com
 doubleclickbygoogle.com
 doubleclick.com
@@ -2519,6 +2524,7 @@ extracthorizontaldashing.com
 extreme-dm.com
 extremetracking.com
 exxohwvxupjv.com
+ey43.com
 eyeblaster.com
 eyebrowscrambledlater.com
 eyereturn.com
@@ -2549,7 +2555,6 @@ faronqdkimah.com
 fashmuqpi.com
 fastbuy.biz
 fastclick.com
-fastclick.net
 fastcounter.de
 fastly-insights.com
 fatcoil.com
@@ -2594,6 +2599,7 @@ firstlightera.com
 fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
+fkwnnfwhvjmubrl.com
 flagcounter.com
 flagmantensity.com
 flakyfeast.com
@@ -2981,6 +2987,7 @@ hoddlegamey.com
 holahupa.com
 homepageking.de
 homespotaudience.com
+hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 hostedads.realitykings.com
@@ -3026,6 +3033,7 @@ hypermusk.com
 hypertracker.com
 hypertusk.com
 hypestat.com
+hz.methylstewed.com
 i1media.no
 i2ad.jp
 iab.net
@@ -3090,7 +3098,6 @@ imimobile.com
 immensehoney.com
 immerseweariness.com
 immoxdzdke.com
-impact-ad.jp
 impactmobile.com
 impeccablewriter.com
 importedincrease.com
@@ -3302,6 +3309,7 @@ kcaapxanwv.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
+ke.minterhazes.com
 kempucmouftordo.com
 ketchapp.org
 kgdvs9ov3l2aasw4nuts.com
@@ -3309,6 +3317,7 @@ kgfjrb711.com
 kighoadouk.net
 k.iinfo.cz
 kiklazopnqce.com
+kiltcusks.shop
 kindads.com
 kindly-face.pro
 king3rsc7ol9e3ge.com
@@ -3516,6 +3525,7 @@ lptag.liveperson.net
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
+lstalwryflhourf.com
 lucidlykidney.com
 lucidmedia.com
 lucrinearraign.com
@@ -3524,6 +3534,7 @@ luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lunarads.com
+lutoorgourgi.com
 luxope.com
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -3814,6 +3825,7 @@ mutcheng.net
 muwmedia.com
 mw19c3mi5a.com
 mwejhobumo.com
+mwekuzaj.com
 mxptint.net
 mxradon.com
 mxvp-ad-config-prod-1.zenmxapps.com
@@ -3923,6 +3935,7 @@ nexac.com
 nextmillmedia.com
 nfucujozv.com
 ng3.ads.warnerbros.com
+nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 nightmareirene.com
@@ -4479,7 +4492,6 @@ pro-advertising.com
 processsky.com
 prodregistryv2.org
 producerplot.com
-prod.uidapi.com
 proetusbramble.com
 proext.com
 profero.com
@@ -4545,6 +4557,7 @@ ptoushoa.com
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptuzrywmega.com
 ptygunjk.com
 pu1.biz
 pu3.biz
@@ -4622,6 +4635,7 @@ qgxbluhsgad.com
 qhfjamsmjyn.com
 qingolor.com
 qipshozipsah.com
+qiptamcupl.com
 qjwglnuwqvr.com
 qlfqkjluvz.com
 qlpenuxctkhwv.com
@@ -4691,6 +4705,7 @@ rapidfoxengine.com
 rapleaf.com
 raresummer.com
 rate.ru
+raunoaptotoaw.com
 razzedwhimsic.website
 r.bbci.co.uk
 rbkhpjfwtmirk.com
@@ -4852,6 +4867,7 @@ rosysolvingscallion.com
 rotabol.com
 rot.spotsniper.ru
 rotumal.com
+roumaniangravelnot.com
 rounddescribe.com
 roundspaniardindefinitely.com
 rounuatedanximum.com
@@ -5352,6 +5368,7 @@ supportiverarity.com
 surecheapermoisture.com
 surfmusik-adserver.de
 suriflowers.com
+surtaultathoado.com
 surveywall-api.survata.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
@@ -5377,6 +5394,7 @@ syndicatedsearch.goog
 syndicate.purch.com
 syndicpop.com
 synonymdetected.com
+synz.liveonce.online
 sypnios.com
 sysmeasuring.net
 systemleadb.com
@@ -5747,6 +5765,7 @@ tyroo.com
 tzegilo.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
+tzwtzygxslrk.com
 u1pmt.com
 u9axpzf50.com
 ua.indianexpress.com
@@ -5782,6 +5801,7 @@ ultimedia.com
 ultramercial.com
 ultraoranges.com
 ultsearch.com
+ul.xiphiidbachel.com
 umebella.com
 umexalim.com
 unanimis.co.uk
