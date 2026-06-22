@@ -15041,6 +15041,7 @@ bbzhi.com
 bbzhsw.com
 bbzxky.fun
 bc150.com
+b.c2r.ts.cdn.office.net
 bc4785bd211012.beer
 bc5539.com
 bc754c518ef6127a.com
@@ -31295,6 +31296,7 @@ dxjt2013.com
 dxjzz666.com
 dxlfile.com
 dx-marine.com
+dxmbaoxian.com
 dxm-cdn.com
 dxm-int.com
 dxmjinr.com
@@ -34402,6 +34404,7 @@ fbyvalve.com
 fc0531.com
 fc0633.com
 fc224220480630b3.com
+f.c2r.ts.cdn.office.net
 fc3e2b88fc5254c9.com
 fc62.com
 fc811.com
@@ -65066,6 +65069,7 @@ mcool.com
 mcpemaster.com
 mcpfks.com
 mcpmaid.com
+mcpworld.com
 mcq93.app
 mcqy.net
 mcsafebox.com
@@ -68063,6 +68067,7 @@ mysqil.com
 mysql360.com
 mysqlab.net
 myssl.com
+myssl-uri.com
 mystarch.com
 my.st.com
 mysteelcdn.com
@@ -72842,6 +72847,7 @@ perfcode.com
 perfect99.com
 perfectdiary.com
 perfect-input.com
+perfectlingo.com
 perfecttradinghk.com
 perfectwatchen.com
 perfertw.com
@@ -74291,6 +74297,7 @@ pvzbaike.com
 pw1999.com
 pw88.com
 pwand.com
+pwcinema.com
 pwdding.icu
 pwithe.com
 pwjptdg.xyz
@@ -81389,6 +81396,7 @@ shejiyue.com
 sheketiandi.com
 shekou.com
 shelive.net
+shell.cdn.office.net
 shellpub.com
 shellsec.com
 shelter-china.com
@@ -85311,6 +85319,7 @@ statics.cc
 staticsdd.com
 staticsoe.com
 staticsoem.com
+statics.teams.cdn.office.net
 staticswin.com
 static.tripcdn.com
 stationpc.com
@@ -86030,6 +86039,7 @@ suqun-group.com
 surely.cool
 surerp.com
 surface.download.prss.microsoft.com
+surface.downloads.prss.microsoft.com
 surfacetreatmentgroup.com
 surfacetreatmenttechnology.com
 surfcg.com
@@ -90989,6 +90999,7 @@ trusple.com
 trust400.com
 trusta-lawyer.com
 trustasia.com
+trustasia.net
 trustcn.com
 trustdecision.com
 trustedsign.com
